@@ -126,6 +126,7 @@
 | [Trustiner](https://trustiner.com/) | 可信AI工具推荐平台 | 4 |  |
 | [Easy With Al](https://easywithai.com) | 简化AI使用的工具和指南 | 53 | 919300 |
 | [Futurepedia](https://www.futurepedia.io) | AI工具百科全书 | 71 | 639200 |
+| [300 AI Directories](https://300aidirectories.com/) | 提供 300+ AI 目录提交服务与提交报告，帮助提升曝光与SEO外链 | 7 |  |
 | [There's An Al For That](https://theresanaiforthat.com) | 针对特定需求的AI工具推荐 | 74 | 4100000 |
 | [WhatTheAI](https://whattheai.tech) | AI技术和工具解析平台 | 32 |  |
 | [Al Trendz](https://aitrendz.xyz) | AI趋势和热门工具追踪 | 12 |  |
